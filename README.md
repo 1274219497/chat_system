@@ -1,0 +1,2 @@
+# chat_system
+基于HDFS和MapReduce的闲聊型对话系统
